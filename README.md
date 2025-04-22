@@ -1,10 +1,5 @@
 # Awesome Stoplight Alternatives [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/XXXXX/YYYYYYY.png" alt="Awesome Stoplight Alternatives Logo" width="200"/> 
-  <!-- TODO: Add a relevant image/logo if you have one -->
-</p>
-
 A curated list of alternatives to [Stoplight](https://stoplight.io/), the popular platform for API design, documentation, mocking, and governance.
 
 Stoplight has established itself as a powerful and widely-adopted suite for collaborative API development. Its integrated environment, visual editor, documentation generation, mocking capabilities, and governance features offer a compelling solution for many teams. However, the API tooling landscape is vast and diverse. Teams might seek alternatives for various reasons:
